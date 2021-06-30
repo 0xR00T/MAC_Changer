@@ -2,10 +2,9 @@
 
 How to use MAC Address Changer
 
+root@kali~# git clone https://github.com/0xR00T/MAC_Changer.git
 
 root@kali~# cd MAC_Changer/
-
-root@kali~/MAC_Changer # git clone https://github.com/0xR00T/MAC_Changer.git
 
 root@kali~/MAC_Changer # pip3 install -r requirements.txt
 
