@@ -1,6 +1,6 @@
-# MAC_Changer
+# MAC Address Changer
 
-How to use MAC Changer
+How to use MAC Address Changer
 
 
 root@kali~# cd MAC_Changer/
